@@ -1,1 +1,2 @@
-this is a git study text fiel!
+Git is a distributed version control system.
+Git is free software.
