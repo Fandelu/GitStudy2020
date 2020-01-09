@@ -1,0 +1,3 @@
+cux:
+  message:
+    words: hello %s,this is message is from client1!
